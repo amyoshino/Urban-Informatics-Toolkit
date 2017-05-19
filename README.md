@@ -1,4 +1,4 @@
-# Urban-Informatics-Toolkit
+# Urban-Informatics-Tools
 
 ### Useful Jupyter Notebooks / Python codes to Urban Informatics 
 
