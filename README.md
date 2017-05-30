@@ -9,8 +9,8 @@ Those are the pieces of code that I have most used during the projects and it's 
 
 The Notebooks/Folders are divided into:
 
-1. Data Wrangling
-2. Visualization notebooks (Graphics and Maps)
+1. Visualization notebooks (Graphics and Maps)
+2. Data Wrangling
 3. Machine Learning codes applied to urban scenarios
 
 Last update: 05/15/2017
